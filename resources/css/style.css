@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+}
+h3 {
+  color: aquamarine;
+}
+.footer {
+  text-align: right;
+}
